@@ -16,5 +16,9 @@ namespace ConsoleApp2
 		{
 			Console.WriteLine("Hi, World");
 		}
+		public void PrintMyName()
+		{
+			Console.WriteLine("Hi, my name is Dima");
+		}
 	}
 }
