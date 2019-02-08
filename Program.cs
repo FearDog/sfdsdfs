@@ -12,7 +12,9 @@ namespace ConsoleApp2
 			Console.WriteLine("Hello");
 			Console.WriteLine("People!!!");
 			Console.WriteLine("How you do?");
+			Console.WriteLine("Ok?");
 			Console.ReadLine();
+
 		}
 	}
 }
