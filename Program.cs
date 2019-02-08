@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleApp2
@@ -11,8 +10,8 @@ namespace ConsoleApp2
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello");
-			Console.WriteLine("World");
-			Console.WriteLine("How do you do?");
+			Console.WriteLine("People!!!");
+			Console.WriteLine("How you do?");
 			Console.ReadLine();
 		}
 	}
