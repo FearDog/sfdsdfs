@@ -12,5 +12,9 @@ namespace ConsoleApp2
 		{
 			Console.WriteLine("Hello, World");
 		}
+		public void PrintHi()
+		{
+			Console.WriteLine("Hi, World");
+		}
 	}
 }
